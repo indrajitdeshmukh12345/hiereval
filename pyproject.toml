@@ -7,7 +7,7 @@ name = "hiereval"
 version = "0.1.0"
 description = "Structure-aware and confidence-aware evaluation metrics for hierarchical classification"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 license = { file = "LICENSE" }
 authors = [{ name = "Indrajit Deshmukh" }]
 keywords = [
